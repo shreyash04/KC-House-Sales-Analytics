@@ -3,7 +3,7 @@
 <h1 align="center">King County House Sales Analytics</h1>
 
 <br></br>
-### Dataset: https://github.com/shreyash04/KC-House-Sales-Analytics/blob/main/HouseData.xlsx
+#### Dataset: https://github.com/shreyash04/KC-House-Sales-Analytics/blob/main/HouseData.xlsx
 <br></br>
 ### Tableau Visualization Screenshot
 <img src="https://github.com/shreyash04/KC-House-Sales-Analytics/blob/main/King%20County%20House%20Sales%20Analysis.png">
